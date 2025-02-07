@@ -1,0 +1,48 @@
+Investment Risk Profiles
+
+Low-Risk Investment Segment
+Average Value: ₱623,205.54
+Physical Characteristics:
+Floor Area: 47.87 sq.m
+Lot Area: 26.55 sq.m
+Property Composition:
+Predominantly townhouses (1,211 units)
+Limited duplex (92 units) and detached homes (75 units)
+Risk Characteristics:
+High market liquidity
+Lower capital requirements
+Consistent pricing patterns
+Stable demand indicators
+
+
+Moderate-Risk Investment Segment
+Average Value: ₱3,072,416.49
+Physical Characteristics:
+Floor Area: 238.65 sq.m
+Lot Area: 127.80 sq.m
+Property Composition:
+Balanced mix of property types
+Townhouses (529 units)
+Detached homes (482 units)
+Duplex homes (170 units)
+Risk Characteristics:
+Moderate market liquidity
+Balanced risk-return profile
+Diverse property options
+Stable value appreciation potential
+
+
+High-Risk Investment Segment
+Average Value: ₱5,058,425.08
+Physical Characteristics:
+Floor Area: 847.83 sq.m
+Lot Area: 154.25 sq.m
+Property Composition:
+Predominantly detached homes (68 units)
+Limited townhouses (4 units)
+Minimal duplex presence (2 units)
+Risk Characteristics:
+Limited market liquidity
+Higher capital requirements
+Increased price volatility
+Specialized market segment
